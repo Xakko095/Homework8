@@ -93,7 +93,7 @@ public class Main {
     }
 
     private static void task8() {
-        System.out.println("Задача8");
+        System.out.println("Задача8.");
         int start = 1823;
         int end = 2123;
         for (int i = start; i < end; i = i + 1) {
